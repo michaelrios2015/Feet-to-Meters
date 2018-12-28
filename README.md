@@ -14,7 +14,7 @@ Include a loop that lets the user repeat this computation for new  input values 
  
  
 Hints:  
--0.3048 meters in a foot 
+- 0.3048 meters in a foot 
 - 100 centimeters in a meter 
 - 12 inches in a foot 
  
