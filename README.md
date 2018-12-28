@@ -13,8 +13,7 @@ Use at least three functions: (1) One function for input with two variable param
 Include a loop that lets the user repeat this computation for new  input values until the user says he or she wants to end the program.  
  
  
-Hints: 
-- 0.3048 meters in a foot - 100 centimeters in a meter - 12 inches in a foot 
+Hints:  0.3048 meters in a foot - 100 centimeters in a meter - 12 inches in a foot 
  
 Use the following data to test  your program (Each pairs represents X feet and Y inches) 
  
