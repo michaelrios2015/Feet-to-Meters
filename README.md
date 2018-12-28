@@ -20,7 +20,7 @@ Use the following data to test  your program (Each pairs represents X feet and Y
  
 Input: 
  
-14 9 
-20 2 
-8 0 
-13 11 
+- 14 9 
+- 20 2 
+- 8 0 
+- 13 11 
