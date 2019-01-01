@@ -7,9 +7,9 @@ COSC 501(AIT 500)      Project 3  Due: Oct 22, 2013
  
 Write a C++ program that reads in a length in feet and inches and outputs the equivalent length in meters and centimeters.  
  
-Use at least three functions: 
-(1) One function for input with two variable parameters 
-(2) One value-returning function for calculation that has two parameters (feet and inches) that return the length in meters and centimeters (one value) 
+Use at least three functions:<br> 
+(1) One function for input with two variable parameters<br> 
+(2) One value-returning function for calculation that has two parameters (feet and inches) that return the length in meters and centimeters (one value)<br> 
 (3) One function for output.  
  
  
