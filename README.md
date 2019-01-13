@@ -2,8 +2,7 @@
 
 This is the assignment the project was created for 
 
-COSC 501(AIT 500)      Project 3  Due: Oct 22, 2013 
- 
+**COSC 501 at Towson University**
  
 Write a C++ program that reads in a length in feet and inches and outputs the equivalent length in meters and centimeters.  
  
@@ -29,3 +28,4 @@ Input:
 - 20 2 
 - 8 0 
 - 13 11 
+
